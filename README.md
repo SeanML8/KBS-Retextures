@@ -19,5 +19,5 @@ A DayZ retexture mod featuring custom skins for clothing and shoes.
 
 ## Credits
 
-- **Kattica & Bunny** - Retextures
-- **Sean** - Configuration
+- **[Kattica](https://steamcommunity.com/profiles/76561198135240534/) & [Bunny](https://steamcommunity.com/id/MedicineBunny/)** - Retextures
+- **[Sean](https://steamcommunity.com/profiles/76561198059402079/)** - Configuration
