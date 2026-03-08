@@ -20,7 +20,7 @@ class CfgMods
         hidePicture = 0;
         name = "KBS Retextures";
         credits = "";
-        author = "Kattica", "Bunny";
+        author = "Kattica, Bunny and Sean";
         authorID = "";
         version = "1.0";
         extra = 0;
