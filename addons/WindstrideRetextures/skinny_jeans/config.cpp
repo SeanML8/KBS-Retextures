@@ -19,7 +19,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Floral Skinny Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
-		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_Skinny_Jeans_Floral3.paa",
+		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_Skinny_Jeans_Floral.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein_ca.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein2_ca.paa"};
 	};
@@ -29,7 +29,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Red Skinny Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
-		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_SkinnyJeans_Red.paa",
+		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_Skinny_Jeans_Red.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein_ca.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein2_ca.paa"};
 	};
@@ -39,7 +39,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Stars Skinny Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
-		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_SkinnyJeans_Stars3.paa",
+		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_Skinny_Jeans_Stars.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein_ca.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein2_ca.paa"};
 	};
