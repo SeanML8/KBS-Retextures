@@ -14,7 +14,7 @@ class CfgPatches
 class CfgVehicles
 {
 	class Skinny_Jeans_ColorBase;
-	class Skinny_Jeans_Floral3: Skinny_Jeans_ColorBase
+	class Skinny_Jeans_Floral: Skinny_Jeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Floral Skinny Jeans";
@@ -34,7 +34,7 @@ class CfgVehicles
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein2_ca.paa"};
 	};
 	class Skinny_Jeans_ColorBase;
-	class Skinny_Jeans_Stars3: Skinny_Jeans_ColorBase
+	class Skinny_Jeans_Stars: Skinny_Jeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Stars Skinny Jeans";

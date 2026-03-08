@@ -21,6 +21,7 @@ class CfgVehicles
         descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
         hiddenSelectionsTextures[] =
         {
+            "\KBS-Retextures\addons\DZBase\hats\boonie_hat\booniehat_orange_co.paa",
             "\KBS-Retextures\addons\DZBase\hats\boonie_hat\booniehat_orange_co.paa"
         };
     };
