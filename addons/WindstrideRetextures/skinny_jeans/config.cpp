@@ -24,6 +24,16 @@ class CfgVehicles
 		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein2_ca.paa"};
 	};
 	class Skinny_Jeans_ColorBase;
+	class Skinny_Jeans_Red: Skinny_Jeans_ColorBase
+	{
+		scope = 2;
+		displayName = "Red Skinny Jeans";
+		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
+		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\KTT_SkinnyJeans_Red.paa",
+		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein_ca.paa",
+		"\KBS-Retextures\addons\WindstrideRetextures\skinny_jeans\skein2_ca.paa"};
+	};
+	class Skinny_Jeans_ColorBase;
 	class Skinny_Jeans_Stars3: Skinny_Jeans_ColorBase
 	{
 		scope = 2;
