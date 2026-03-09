@@ -14,7 +14,7 @@ class CfgPatches
 class CfgVehicles
 {
     class BoonieHat_ColorBase;
-    class KTT_BoonieHat_Orange: BoonieHat_ColorBase
+    class KTT_BoonieHat_Peach: BoonieHat_ColorBase
     {
         scope = 2;
         displayName = "Peach Boonie Hat";
