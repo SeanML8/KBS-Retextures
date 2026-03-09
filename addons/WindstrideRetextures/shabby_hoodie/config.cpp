@@ -31,4 +31,13 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\shabby_hoodie\BUN_shabby_hoodie_thrifted_color_block.paa",
 		"\KBS-Retextures\addons\WindstrideRetextures\shabby_hoodie\skein_grey_ca.paa"};
 	};
+	class Shabby_Hoodie_ColorBase;
+	class Shabby_Hoodie_Thrifted_Color_Block_Test: Shabby_Hoodie_ColorBase
+	{
+		scope = 2;
+		displayName = "Thrifted Color Block Shabby Hoodie 2";
+		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
+		hiddenSelectionsTextures[] = {"\KBS-Retextures\addons\WindstrideRetextures\shabby_hoodie\psd.paa",
+		"\KBS-Retextures\addons\WindstrideRetextures\shabby_hoodie\skein_grey_ca.paa"};
+	};
 };
