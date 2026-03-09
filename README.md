@@ -6,11 +6,12 @@ A DayZ retexture mod featuring custom skins for clothing and shoes.
 
 ### Base Game
 - **Sneakers** - Pink, Black Rose, Cloud, Green, Heart, Jeans, Smile
-- **Boonie Hat** - Orange
+- **Boonie Hat** - Peach
+- **Short Jeans** - Army Green, Camel Brown, Dusty Rose, Eggplant, Emerald, Obsidian, Red Wine, Sapphire, Slate, Teal
 - **Skirt** - Pink Plaid
 
 ### Windstride's Clothing Pack (requires [Windstride's Clothing Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1797720064))
-- **Shabby Hoodie** - Thrifted Floral
+- **Shabby Hoodie** - Thrifted Floral, Thrifted Color Block
 - **Skinny Jeans** - Floral, Red, Stars
 
 ## Installation
