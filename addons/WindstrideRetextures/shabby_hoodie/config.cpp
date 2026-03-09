@@ -23,7 +23,7 @@ class CfgVehicles
 		"\KBS-Retextures\addons\WindstrideRetextures\shabby_hoodie\skein_grey_ca.paa"};
 	};
 	class Shabby_Hoodie_ColorBase;
-	class Shabby_Hoodie_Thrifted_CB2: Shabby_Hoodie_ColorBase
+	class Shabby_Hoodie_Thrifted_CB: Shabby_Hoodie_ColorBase
 	{
 		scope = 2;
 		displayName = "Thrifted CB Shabby Hoodie";

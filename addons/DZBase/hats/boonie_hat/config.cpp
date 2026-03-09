@@ -17,7 +17,7 @@ class CfgVehicles
     class KTT_BoonieHat_Orange: BoonieHat_ColorBase
     {
         scope = 2;
-        displayName = "Orange Boonie Hat";
+        displayName = "Peach Boonie Hat";
         descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
         hiddenSelectionsTextures[] =
         {
