@@ -21,10 +21,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_armygreen.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_armygreen.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_armygreen.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_armygreen.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Armygreen.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Armygreen.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Armygreen.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Armygreen.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -35,10 +35,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_camelbrown.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_camelbrown.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_camelbrown.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_camelbrown.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Camelbrown.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Camelbrown.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Camelbrown.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Camelbrown.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -49,10 +49,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_dustyrose.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_dustyrose.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_dustyrose.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_dustyrose.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Dustyrose.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Dustyrose.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Dustyrose.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Dustyrose.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -63,10 +63,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_eggplant.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_eggplant.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_eggplant.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_eggplant.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Eggplant.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Eggplant.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Eggplant.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Eggplant.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -77,10 +77,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_emerald.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_emerald.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_emerald.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_emerald.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Emerald.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Emerald.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Emerald.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Emerald.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -91,10 +91,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_obsidian.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_obsidian.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_obsidian.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_obsidian.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Obsidian.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Obsidian.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Obsidian.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Obsidian.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -105,10 +105,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_redwine.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_redwine.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_redwine.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_redwine.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Redwine.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Redwine.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Redwine.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Redwine.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -119,10 +119,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_sapphire.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_sapphire.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_sapphire.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_sapphire.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Sapphire.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Sapphire.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Sapphire.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Sapphire.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -133,10 +133,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_slate.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_slate.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_slate.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_slate.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Slate.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Slate.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Slate.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Slate.paa"
 		};
 	};
 	class ShortJeans_ColorBase;
@@ -147,10 +147,10 @@ class CfgVehicles
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_teal.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_teal.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_teal.paa",
-			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_teal.paa"
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Teal.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Teal.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Teal.paa",
+			"\KBS-Retextures\addons\DZBase\short_jeans\KTT_Short_Jeans_Teal.paa"
 		};
 	};
 };
