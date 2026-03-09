@@ -13,8 +13,8 @@ class CfgPatches
 
 class CfgVehicles
 {
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_ArmyGreen: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_ArmyGreen: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Army Green Jean Shorts";
@@ -27,8 +27,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_armygreen.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_CamelBrown: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_CamelBrown: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Camel Brown Jean Shorts";
@@ -41,8 +41,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_camelbrown.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_DustyRose: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_DustyRose: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Dusty Rose Jean Shorts";
@@ -55,8 +55,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_dustyrose.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_Eggplant: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_Eggplant: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Eggplant Jean Shorts";
@@ -69,8 +69,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_eggplant.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_Emerald: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_Emerald: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Emerald Jean Shorts";
@@ -83,8 +83,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_emerald.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_Obsidian: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_Obsidian: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Obsidian Jean Shorts";
@@ -97,8 +97,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_obsidian.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_RedWine: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_RedWine: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Red Wine Jean Shorts";
@@ -111,8 +111,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_redwine.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_Sapphire: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_Sapphire: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Sapphire Jean Shorts";
@@ -125,8 +125,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_sapphire.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_Slate: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_Slate: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Slate Jean Shorts";
@@ -139,8 +139,8 @@ class CfgVehicles
 			"\KBS-Retextures\addons\DZBase\shorts_jean\KTT_shortjeans_slate.paa"
 		};
 	};
-	class ShortJean_ColorBase;
-	class KTT_Shorts_Jean_Teal: ShortJean_ColorBase
+	class ShortJeans_ColorBase;
+	class KTT_Shorts_Jean_Teal: ShortJeans_ColorBase
 	{
 		scope = 2;
 		displayName = "Teal Jean Shorts";
