@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class KTT_ShortsJean
+	class KTT_ShortJeans
 	{
 		units[] = {};
 		weapons[] = {};
@@ -14,10 +14,10 @@ class CfgPatches
 class CfgVehicles
 {
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_ArmyGreen: ShortJeans_ColorBase
+	class KTT_Short_Jeans_ArmyGreen: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Army Green Jean Shorts";
+		displayName = "Army Green Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -28,10 +28,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_CamelBrown: ShortJeans_ColorBase
+	class KTT_Short_Jeans_CamelBrown: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Camel Brown Jean Shorts";
+		displayName = "Camel Brown Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -42,10 +42,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_DustyRose: ShortJeans_ColorBase
+	class KTT_Short_Jeans_DustyRose: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Dusty Rose Jean Shorts";
+		displayName = "Dusty Rose Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -56,10 +56,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_Eggplant: ShortJeans_ColorBase
+	class KTT_Short_Jeans_Eggplant: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Eggplant Jean Shorts";
+		displayName = "Eggplant Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -70,10 +70,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_Emerald: ShortJeans_ColorBase
+	class KTT_Short_Jeans_Emerald: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Emerald Jean Shorts";
+		displayName = "Emerald Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -84,10 +84,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_Obsidian: ShortJeans_ColorBase
+	class KTT_Short_Jeans_Obsidian: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Obsidian Jean Shorts";
+		displayName = "Obsidian Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -98,10 +98,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_RedWine: ShortJeans_ColorBase
+	class KTT_Short_Jeans_RedWine: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Red Wine Jean Shorts";
+		displayName = "Red Wine Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -112,10 +112,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_Sapphire: ShortJeans_ColorBase
+	class KTT_Short_Jeans_Sapphire: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Sapphire Jean Shorts";
+		displayName = "Sapphire Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -126,10 +126,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_Slate: ShortJeans_ColorBase
+	class KTT_Short_Jeans_Slate: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Slate Jean Shorts";
+		displayName = "Slate Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
@@ -140,10 +140,10 @@ class CfgVehicles
 		};
 	};
 	class ShortJeans_ColorBase;
-	class KTT_Shorts_Jean_Teal: ShortJeans_ColorBase
+	class KTT_Short_Jeans_Teal: ShortJeans_ColorBase
 	{
 		scope = 2;
-		displayName = "Teal Jean Shorts";
+		displayName = "Teal Short Jeans";
 		descriptionShort = "Found in a Shipping Container. Designed and Made by Canadian and Norweigan children.";
 		hiddenSelectionsTextures[] =
 		{
